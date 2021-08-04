@@ -3,3 +3,6 @@ function multiplication(){
 }
 
 multiplication();
+console.log('Kaj kam chole');
+console.log('chole motamotu');
+multiplication();
